@@ -67,3 +67,36 @@ source /root/.bashrc
 ```bash
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
 ```
+
+## 6. Startı Verelim : 
+```bash
+gaianet start
+```
+
+- Durdurmak İsterseniz : gaianet stop
+
+## 7. Nodemizi Kayıt Edelim : 
+
+- Nodemizin bilgilerini alalım - Node ID ve Device ID vericek - bunu kimseyle paylaşmayın.
+
+```bash
+gaianet info
+```
+
+- Link : https://www.gaianet.ai/setting/nodes
+
+![image](https://github.com/user-attachments/assets/5c561fbd-832d-4219-8731-73423b92d618)
+
+![image](https://github.com/user-attachments/assets/4de464c6-444b-41b1-a8bb-8c808e41576b)
+
+## 8. Domaine Bağlayalım : 
+```bash
+gaianet stop
+gaianet config --domain gaia.domains
+gaianet init
+gaianet start
+```
+
+- Link : https://www.gaianet.ai/setting/nodes
+- 3 Noktaya basın - Join domaine tıklayın. 
+
