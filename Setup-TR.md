@@ -30,3 +30,23 @@
 - Sunucumuz aktif olarak çalışacak.
 - Sunucumuzu bir domaine bağlayacağız.
 - Ai ile sohbet edeceğiz.
+
+
+## 1. Sunucuyu Güncelleyelim : 
+
+```bash
+sudo apt update -y && sudo apt upgrade -y
+```
+## 2. Gerekli paketleri kurun:
+
+```bash
+sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
+```
+
+## 3. Pyhton 
+
+```bash
+sudo apt install -y python3-pip
+sudo apt install pip
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+```
