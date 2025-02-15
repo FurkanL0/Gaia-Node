@@ -50,3 +50,20 @@ sudo apt install -y python3-pip
 sudo apt install pip
 sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 ```
+## 4. Gaia Node CLI İndirelim 
+
+```bash
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
+```
+
+```bash
+source /root/.bashrc
+```
+
+## 5. Modeli İndirelim : 
+
+- Model : qwen2-0.5b-instruct
+
+```bash
+gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+```
