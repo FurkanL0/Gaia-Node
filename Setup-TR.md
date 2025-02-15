@@ -99,4 +99,15 @@ gaianet start
 
 - Link : https://www.gaianet.ai/setting/nodes
 - 3 Noktaya basın - Join domaine tıklayın. 
+- Arama kısmında Domain arayın - bizimki connect.gaia.domains
+- Üstüne tıklayıp onaylayın - diğer aşamaları tamamlayın.
 
+## 9. Node İle Sohbet Edin : 
+
+Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor : 
+- Link : https://connect.gaia.domains
+- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyorç
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
