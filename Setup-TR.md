@@ -51,6 +51,10 @@ sudo apt install -y python3-pip
 sudo apt install pip
 sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 ```
+
+```bash
+pip install requests
+```
 ## 4. Gaia Node CLI İndirelim 
 
 ```bash
