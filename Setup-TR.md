@@ -100,6 +100,9 @@ gaianet info
 
 ![image](https://github.com/user-attachments/assets/4de464c6-444b-41b1-a8bb-8c808e41576b)
 
+![image](https://github.com/user-attachments/assets/8a9e9782-db5d-487c-b193-b979e3472043)
+
+
 ## 8. Domaine Bağlayalım : 
 ```bash
 gaianet stop
