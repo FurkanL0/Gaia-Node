@@ -106,7 +106,7 @@ gaianet start
 
 Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor : 
 - Link : https://connect.gaia.domains
-- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyorç
+- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyor.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
