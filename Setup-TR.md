@@ -71,6 +71,9 @@ source /root/.bashrc
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
 ```
 
+![image](https://github.com/user-attachments/assets/f2117332-5a02-41f9-bdd0-1d7877041218)
+
+
 ## 6. Startı Verelim : 
 ```bash
 gaianet start
