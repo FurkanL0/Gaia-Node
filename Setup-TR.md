@@ -60,6 +60,9 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 source /root/.bashrc
 ```
 
+![image](https://github.com/user-attachments/assets/2053663d-960d-49ef-945d-3dea6ca14696)
+
+
 ## 5. Modeli İndirelim : 
 
 - Model : qwen2-0.5b-instruct
@@ -72,9 +75,6 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 ```bash
 gaianet start
 ```
-
-![image](https://github.com/user-attachments/assets/41aada02-45de-43e8-8298-4656afa15c61)
-
 
 - Durdurmak İsterseniz : gaianet stop
 
