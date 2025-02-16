@@ -73,6 +73,9 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 gaianet start
 ```
 
+![image](https://github.com/user-attachments/assets/41aada02-45de-43e8-8298-4656afa15c61)
+
+
 - Durdurmak İsterseniz : gaianet stop
 
 ## 7. Nodemizi Kayıt Edelim : 
