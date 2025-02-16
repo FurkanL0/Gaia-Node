@@ -23,6 +23,7 @@
 - Kod : RB92j9 Link : https://gaianet.ai/reward?invite_code=RB92j9
 - Start Earning'e basın Cüzdan bağlayın ve kayıt işlemini gerçekleştirin.
 - Dasboard'da sosyal medya etkinlikleri var etkinliklere katılım sağlamayı unutmayın. https://www.gaianet.ai/reward-summary
+- Sosyal medya görevlerini yapın - dönüştürülebilir kredi sağlayacak.
 
 ## Gaia Node Kurulum 
 
