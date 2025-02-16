@@ -118,7 +118,7 @@ gaianet start
 
 ![image](https://github.com/user-attachments/assets/0ee113d6-c334-4604-aa08-7a063089e0ff)
 
-![image](https://github.com/user-attachments/assets/ffe2798b-f8bf-4fda-b81f-219179984b05)
+![image](https://github.com/user-attachments/assets/ad3e1336-82e7-4c11-9864-af3d8e13d1d3)
 
 ![image](https://github.com/user-attachments/assets/6f8a6f68-21db-4d3f-b616-082da717c935)
 
