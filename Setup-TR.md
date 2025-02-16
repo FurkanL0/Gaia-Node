@@ -116,6 +116,9 @@ gaianet start
 - Arama kısmında Domain arayın - bizimki connect.gaia.domains
 - Üstüne tıklayıp onaylayın - diğer aşamaları tamamlayın.
 
+![image](https://github.com/user-attachments/assets/0ee113d6-c334-4604-aa08-7a063089e0ff)
+
+
 ## 9. Node İle Sohbet Edin : 
 
 Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor : 
