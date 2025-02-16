@@ -160,6 +160,9 @@ python3 gaiabot.py
 - screen -r gaiabot ile geri screene girebilirsiniz.
 - Durdurmak ve silmek isterseniz screen içinden CTRL C sonrasında screen -XS gaiabot quit komutunu kullanabilirsiniz.
 
+![image](https://github.com/user-attachments/assets/44fb8fe3-d6c1-42c2-8b45-0d98d0ad1515)
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
