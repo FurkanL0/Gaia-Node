@@ -91,6 +91,8 @@ gaianet start
 ```bash
 gaianet info
 ```
+![image](https://github.com/user-attachments/assets/219b8bb4-167c-40d6-85a0-6321661d3f7c)
+
 
 - Link : https://www.gaianet.ai/setting/nodes
 
