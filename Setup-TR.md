@@ -127,7 +127,38 @@ gaianet start
 
 Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor : 
 - Link : https://connect.gaia.domains
-- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyor.
+- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyor. Olmazsa - yazıyor :D
+
+![image](https://github.com/user-attachments/assets/5c53e057-9d36-4970-8de6-a74e956946bc)
+
+## 10. Otomatik Sohbet Bot ; 
+
+- Gaia Üzerinden Api Key Alıyoruz - güzelce kayıt edin tek seferlik gözükecektir. : https://www.gaianet.ai/setting/gaia-api-keys
+
+#### Kurulum : 
+
+- .py'i İndirelim : 
+
+```bash
+curl -L -o gaiabot.py https://github.com/FurkanL0/Gaia-Node/raw/main/gaiabot.py
+```
+
+- Screen Açalım
+```bash
+screen -S gaiabot
+```
+
+- Çalıştıralım
+
+```bash
+python3 gaiabot.py
+```
+
+- Api keyinizi girin.
+- CTRL A + D ile screenden çıkabilirsiniz.
+- screen -r gaiabot ile geri screene girebilirsiniz.
+- Durdurmak ve silmek isterseniz screen içinden CTRL C sonrasında screen -XS gaiabot quit komutunu kullanabilirsiniz.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
