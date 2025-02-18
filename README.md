@@ -20,31 +20,31 @@
 
 ## Kayıt ; 
 
-- Kod : RB92j9 Link : https://gaianet.ai/reward?invite_code=RB92j9
-- Start Earning'e basın Cüzdan bağlayın ve kayıt işlemini gerçekleştirin.
-- Dasboard'da sosyal medya etkinlikleri var etkinliklere katılım sağlamayı unutmayın. https://www.gaianet.ai/reward-summary
-- Sosyal medya görevlerini yapın - dönüştürülebilir kredi sağlayacak.
+- Code : RB92j9 Link : https://gaianet.ai/reward?invite_code=RB92j9
+- Click "Start Earning" Connect Wallet and complete the registration process.
+- Dasboard has social media quest and don't forget to participate in them. https://www.gaianet.ai/reward-summary
+- Do social media tasks - it will provide convertible credit.
 
-## Gaia Node Kurulum 
+## Gaia Node Setup 
 
-- Nodumuzu kuracağız.
-- Sunucumuz aktif olarak çalışacak.
-- Sunucumuzu bir domaine bağlayacağız.
-- Ai ile sohbet edeceğiz.
+- Install Node
+- Our server will work actively.
+- We will connect our server to a domain.
+- Chat with ai
 
 
-## 1. Sunucuyu Güncelleyelim : 
+## 1. Server Update : 
 
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 ```
-## 2. Gerekli paketleri kurun:
+## 2. Install Packages:
 
 ```bash
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
 
-## 3. Pyhton 
+## 3. Install Pyhton 
 
 ```bash
 sudo apt install -y python3-pip
@@ -55,7 +55,7 @@ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 ```bash
 pip install requests
 ```
-## 4. Gaia Node CLI İndirelim 
+## 4. Install Gaia Node CLI
 
 ```bash
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
@@ -68,7 +68,7 @@ source /root/.bashrc
 ![image](https://github.com/user-attachments/assets/2053663d-960d-49ef-945d-3dea6ca14696)
 
 
-## 5. Modeli İndirelim : 
+## 5. Install Model : 
 
 - Model : qwen2-0.5b-instruct
 
@@ -79,7 +79,7 @@ gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/
 ![image](https://github.com/user-attachments/assets/f2117332-5a02-41f9-bdd0-1d7877041218)
 
 
-## 6. Startı Verelim : 
+## 6. Run Node : 
 ```bash
 gaianet start
 ```
@@ -87,11 +87,11 @@ gaianet start
 ![image](https://github.com/user-attachments/assets/25397317-5733-442a-81cc-ff593bcb4c02)
 
 
-- Durdurmak İsterseniz : gaianet stop
+- If you want to stop : 'gaianet stop'
 
-## 7. Nodemizi Kayıt Edelim : 
+## 7. Register Our Node : 
 
-- Nodemizin bilgilerini alalım - Node ID ve Device ID vericek - bunu kimseyle paylaşmayın.
+- Get the information of our node - Node ID - Device ID - don't share this with anyone.
 
 ```bash
 gaianet info
@@ -108,7 +108,7 @@ gaianet info
 ![image](https://github.com/user-attachments/assets/8a9e9782-db5d-487c-b193-b979e3472043)
 
 
-## 8. Domaine Bağlayalım : 
+## 8. Connect Domain : 
 ```bash
 gaianet stop
 gaianet config --domain gaia.domains
@@ -117,9 +117,9 @@ gaianet start
 ```
 
 - Link : https://www.gaianet.ai/setting/nodes
-- 3 Noktaya basın - Join domaine tıklayın. 
-- Arama kısmında Domain arayın - bizimki connect.gaia.domains
-- Üstüne tıklayıp onaylayın - diğer aşamaları tamamlayın.
+- Press 3 dots - click on Join domain. 
+- Search for Domain in Search - ours connect.gaia.domains
+- Click on it and confirm - complete the other steps.
 
 ![image](https://github.com/user-attachments/assets/0ee113d6-c334-4604-aa08-7a063089e0ff)
 
@@ -136,24 +136,24 @@ Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor :
 
 ![image](https://github.com/user-attachments/assets/5c53e057-9d36-4970-8de6-a74e956946bc)
 
-## 10. Otomatik Sohbet Bot ; 
+## 10. Ai Auto Chat  Bot ; 
 
-- Gaia Üzerinden Api Key Alıyoruz - güzelce kayıt edin tek seferlik gözükecektir. : https://www.gaianet.ai/setting/gaia-api-keys
+- We get Api Key via Gaia - register it and it will appear only once. : https://www.gaianet.ai/setting/gaia-api-keys
 
-#### Kurulum : 
+#### Setup : 
 
-- .py'i İndirelim : 
+- Install .py : 
 
 ```bash
 curl -L -o gaiabot.py https://github.com/FurkanL0/Gaia-Node/raw/main/gaiabot.py
 ```
 
-- Screen Açalım
+- Screen : 
 ```bash
 screen -S gaiabot
 ```
 
-- Çalıştıralım
+- Run Bot
 
 ```bash
 python3 gaiabot.py
