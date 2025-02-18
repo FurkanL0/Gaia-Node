@@ -128,11 +128,11 @@ gaianet start
 ![image](https://github.com/user-attachments/assets/6f8a6f68-21db-4d3f-b616-082da717c935)
 
 
-## 9. Node İle Sohbet Edin : 
+## 9. Chat with Ai : 
 
-Sohbet edip XP Kazanmak için AI Sohbete bağlanmanız gerekiyor : 
+You need to connect to AI Chat to chat and earn XP: 
 - Link : https://connect.gaia.domains
-- Sohbet edebilmek için "Credit Balance"ınızın olması gerekiyor. Olmazsa - yazıyor :D
+- You need to have a "Credit Balance" to chat.
 
 ![image](https://github.com/user-attachments/assets/5c53e057-9d36-4970-8de6-a74e956946bc)
 
@@ -159,10 +159,10 @@ screen -S gaiabot
 python3 gaiabot.py
 ```
 
-- Api keyinizi girin.
-- CTRL A + D ile screenden çıkabilirsiniz.
-- screen -r gaiabot ile geri screene girebilirsiniz.
-- Durdurmak ve silmek isterseniz screen içinden CTRL C sonrasında screen -XS gaiabot quit komutunu kullanabilirsiniz.
+- Enter your API key.
+- You can exit the screen with CTRL A + D.
+- screen -r gaiabot you can enter the back screen.
+- If you want to stop and delete it, you can use CTRL C then screen -XS gaiabot quit command from screen.
 
 ![image](https://github.com/user-attachments/assets/44fb8fe3-d6c1-42c2-8b45-0d98d0ad1515)
 
