@@ -23,7 +23,7 @@
 
 ```bash
 cd $HOME
-
+```
 ```bash
 mkdir gaia-node-102
 ```
@@ -61,7 +61,7 @@ gaianet info --base $HOME/gaia-node-102
 
 ```bash
 cd $HOME
-
+```
 ```bash
 mkdir gaia-node-103
 ```
