@@ -95,6 +95,44 @@ gaianet info --base $HOME/gaia-node-103
 - Link : https://www.gaianet.ai/setting/nodes
 - Join Domain : connect.gaia.domains
 
+## 4RD ; 
+
+```bash
+cd $HOME
+```
+```bash
+mkdir gaia-node-104
+```
+```bash
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash -s -- --base $HOME/gaia-node-104
+```
+```bash
+source $HOME/.bashrc
+```
+```bash
+gaianet init --base $HOME/gaia-node-104 --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+```
+```bash
+gaianet config --base $HOME/gaia-node-104 --port 8104
+```
+```bash
+gaianet init --base $HOME/gaia-node-104
+```
+```bash
+sudo lsof -t -i:8104 | xargs kill -9
+```
+```bash
+gaianet start --base $HOME/gaia-node-104
+```
+```bash
+gaianet info --base $HOME/gaia-node-104
+```
+
+## Add Node ; 
+
+- Link : https://www.gaianet.ai/setting/nodes
+- Join Domain : connect.gaia.domains
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
