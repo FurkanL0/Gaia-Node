@@ -7,10 +7,10 @@
 
 | X        | Minimum              |
 |------------------|----------------------------|
-| **CPU**          | 4 |
-| **RAM**          | 8 GB                     |
-| **Storage**      | 256 GB SDD                   |
-| **Network**      | 100 Mbps (1 Gbps+ recommended) |
+| **CPU**          | ∞ |
+| **RAM**          | ∞ GB                     |
+| **Storage**      | ∞ GB SDD                   |
+| **Network**      | ∞ Mbps (∞ Gbps+ recommended) |
 
 | Server Sağlayıcıları        | Link              | Özellikler |
 |------------------|----------------------------|----------------------------|
