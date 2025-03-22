@@ -136,3 +136,37 @@ gaianet info --base $HOME/gaia-node-104
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
+
+
+## 5RD ; 
+
+```bash
+cd $HOME
+```
+```bash
+mkdir gaia-node-105
+```
+```bash
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash -s -- --base $HOME/gaia-node-105
+```
+```bash
+source $HOME/.bashrc
+```
+```bash
+gaianet init --base $HOME/gaia-node-105 --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
+```
+```bash
+gaianet config --base $HOME/gaia-node-105 --port 8105
+```
+```bash
+gaianet init --base $HOME/gaia-node-105
+```
+```bash
+sudo lsof -t -i:8105 | xargs kill -9
+```
+```bash
+gaianet start --base $HOME/gaia-node-105
+```
+```bash
+gaianet info --base $HOME/gaia-node-105
+```
