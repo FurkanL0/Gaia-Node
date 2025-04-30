@@ -31,3 +31,5 @@ gaianet stop
 ```bash
 gaianet start
 ```
+
+- Sorunsuz bir şekilde çalışıyor olması gerekiyor.
