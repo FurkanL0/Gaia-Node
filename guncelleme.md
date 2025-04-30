@@ -14,7 +14,12 @@
 
 - Keystore file ( Örnek ;  0278996e-5dad-4xy9-b3xu7-be3xuxxxaac94)
 
+- Bu dosyalar gaianet dosyasının içerisinde.
+
 - Dilerseniz SFTP ile ( Termius ) - dilersenizde Mobaxterm üzerinden bu dosyaların yedeklerini pc'nize indirin.
+
+![image](https://github.com/user-attachments/assets/674d6c15-acae-4b7e-8661-1ae9c0fd0f60)
+
 
 ## Güncelleme ; 
 
