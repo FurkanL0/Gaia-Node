@@ -33,3 +33,4 @@ gaianet start
 ```
 
 - Sorunsuz bir şekilde çalışıyor olması gerekiyor.
+- Bu güncelleme Gaia Node içindir - sohbet botu ile alakalı değil. 
